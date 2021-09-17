@@ -1,0 +1,6 @@
+// export const API_KEY = "AIzaSyBrS5eBzOCobjmCbBtMIheZT3OX3WyneNM"
+export const API_KEY = "AIzaSyDOGwVObwVRbB7ue1rqkvyFbarZFDBHeuM"
+export const SET_LOCATION = "SET_LOCATION"
+export const SET_MY_ADDRESS = "SET_MY_ADDRESS"
+export const DESTINATION_LATLNG = "DESTINATION_LATLNG"
+export const DESTINATION_ADDRESS = "DESTINATION_ADDRESS"

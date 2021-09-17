@@ -1,0 +1,20 @@
+.Search-input {
+  width: 100%;
+  padding: 3px 5px;
+  margin-top: 10px;
+  outline: none;
+  border: 1px solid #555555;
+  border-radius: 5px;
+  z-index: 10;
+
+}
+
+.autocomplete-dropdown-container {
+  z-index: 10;
+  position: absolute;
+  top: 100%;
+
+}
+
+
+/* .Search-input::focus {} */
